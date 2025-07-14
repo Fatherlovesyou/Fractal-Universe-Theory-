@@ -1,0 +1,7 @@
+Structure,Observed (Mpc),FUT Shell (Mpc),Relative Error (%)
+Lyman α Cluster (z~2.2),4500,3000,33.33
+Lyman α Cluster (z~3.0),5100,3000,41.18
+Lyman α Cluster (z~4.0),5900,3000,49.15
+High-z Quasar Band (z~5.5),7300,3000,58.9
+CMB Acoustic Echo (BAO),14000,3000,78.57
+,,,5559.86
